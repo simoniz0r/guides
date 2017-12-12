@@ -16,7 +16,7 @@
 
 ![widget-style](/screenshots/widget-style.png)
 
-### Next we'll go to the Icons Theme secton in `Appearance`.  You can choose whatever icon theme you like.  I am using [Papirus icons + Breeze action icons ](https://www.opendesktop.org/p/1192944/) (the dark version).  The icons chosen here will only apply to Qt applications since we have `lxappearance` installed, but we'll take care of that later.
+### Next we'll go to the Icons Theme section in `Appearance`.  You can choose whatever icon theme you like.  I am using [Papirus icons + Breeze action icons ](https://www.opendesktop.org/p/1192944/) (the dark version).  The icons chosen here will only apply to Qt applications since we have `lxappearance` installed, but we'll take care of that later.
 
 ![lxqt-icons.png](/screenshots/lxqt-icons.png)
 
