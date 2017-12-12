@@ -1,6 +1,6 @@
 # Customizing LXQt with Openbox
 
-Required packages: lxqt (metapackage that provides entire LXQt DE which should include Openbox), lxappearance (used for setting the GTK theme, icons, cursors, and fonts), qt5-style-plugins (provides the option to use GTK theme for LXQt's widget setting), and compton (compton-conf can also be installed for GUI config).  You can also install obconf-qt for a nicer looking Openbox GUI config.
+**Required packages**: lxqt (metapackage that provides entire LXQt DE which should include Openbox), lxappearance (used for setting the GTK theme, icons, cursors, and fonts), qt5-style-plugins (provides the option to use GTK theme for LXQt's widget setting), and compton (compton-conf can also be installed for GUI config).  You can also install obconf-qt for a nicer looking Openbox GUI config.
 
 ![screenshot](/screenshots/full-desktop.png)
 
